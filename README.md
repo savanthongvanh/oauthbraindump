@@ -6,5 +6,15 @@ https://www.pingidentity.com/developer/en/resources/jwt-and-jose.html
 ## Unicorn Project Synopsis
 https://dzone.com/articles/announcing-the-unicorn-project-availability-of-fir
 
-## nice breakdown of which oauth flows to use in what situations
+## oauth reading list
+https://oauth.net/articles/authentication/
 https://auth0.com/docs/api-auth/which-oauth-flow-to-use
+https://aaronparecki.com/oauth-2-simplified/
+https://docs.oracle.com/cd/E39820_01/doc.11121/gateway_docs/content/oauth_flows.html
+https://developers.google.com/youtube/v3/guides/authentication
+https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2
+https://www.ibm.com/support/knowledgecenter/SSFS6T/com.ibm.apic.toolkit.doc/tutorial_apionprem_security_OAuth.html
+https://www.miniorange.com/single-sign-on-(sso)-using-oauth
+https://www.mutuallyhuman.com/blog/choosing-an-sso-strategy-saml-vs-oauth2/
+https://auth0.com/learn/how-to-implement-single-sign-on/
+https://blog.heroku.com/oauth-sso
